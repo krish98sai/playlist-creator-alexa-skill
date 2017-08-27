@@ -1,0 +1,116 @@
+setTopic find videos about {cats|Topic}
+setTopic find videos about {dogs|Topic}
+setTopic find videos about {balloons|Topic}
+setTopic find videos about {frogs|Topic}
+setTopic find videos about {elephants|Topic}
+setTopic find videos about {rainbows|Topic}
+setTopic find videos about {videos|Topic}
+setTopic find videos about {computers|Topic}
+setTopic find videos about {music|Topic}
+setTopic find videos about {electronics|Topic}
+setTopic find videos about {space|Topic}
+setTopic find videos about {sun|Topic}
+setTopic find videos about {star|Topic}
+setTopic find videos about {moon|Topic}
+setTopic find videos about {animals|Topic}
+setTopic find videos about {the muppets|Topic}
+setTopic find videos about {internet memes|Topic}
+setTopic find videos about {space facts|Topic}
+setTopic find videos about {animal info|Topic}
+setTopic find videos about {Danny DeVito|Topic}
+setTopic find videos about {internet browsers|Topic}
+setTopic find videos about {programming tutorials|Topic}
+setTopic find videos about {car races|Topic}
+setTopic find videos about {electric guitars|Topic}
+setTopic find videos about {HTML code|Topic}
+setTopic find videos about {cookie dough|Topic}
+setTopic find videos about {sun god|Topic}
+setTopic find videos about {computer mice|Topic}
+setTopic find videos about {laptop review|Topic}
+setTopic find videos about {gaming channel|Topic}
+setTopic find videos about {cute fuzzy animals|Topic}
+setTopic find videos about {daring lion race|Topic}
+setTopic find videos about {laser bath desire|Topic}
+setTopic find videos about {jets stones frame|Topic}
+setTopic find videos about {park begin issue|Topic}
+setTopic find videos about {driver guitar dishes|Topic}
+setTopic find {cats|Topic} videos
+setTopic find {dogs|Topic} videos
+setTopic find {balloons|Topic} videos
+setTopic find {frogs|Topic} videos
+setTopic find {elephants|Topic} videos
+setTopic find {rainbows|Topic} videos
+setTopic find {videos|Topic} videos
+setTopic find {computers|Topic} videos
+setTopic find {music|Topic} videos
+setTopic find {electronics|Topic} videos
+setTopic find {space|Topic} videos
+setTopic find {sun|Topic} videos
+setTopic find {star|Topic} videos
+setTopic find {moon|Topic} videos
+setTopic find {animals|Topic} videos
+setTopic find {the muppets|Topic} videos
+setTopic find {internet memes|Topic} videos
+setTopic find {space facts|Topic} videos
+setTopic find {animal info|Topic} videos
+setTopic find {Danny DeVito|Topic} videos
+setTopic find {internet browsers|Topic} videos
+setTopic find {programming tutorials|Topic} videos
+setTopic find {car races|Topic} videos
+setTopic find {electric guitars|Topic} videos
+setTopic find {HTML code|Topic} videos
+setTopic find {cookie dough|Topic} videos
+setTopic find {sun god|Topic} videos
+setTopic find {computer mice|Topic} videos
+setTopic find {laptop review|Topic} videos
+setTopic find {gaming channel|Topic} videos
+setTopic find {cute fuzzy animals|Topic} videos
+setTopic find {daring lion race|Topic} videos
+setTopic find {laser bath desire|Topic} videos
+setTopic find {jets stones frame|Topic} videos
+setTopic find {park begin issue|Topic} videos
+setTopic find {driver guitar dishes|Topic} videos
+setTopic make a playlist about {cats|Topic}
+setTopic make a playlist about {dogs|Topic}
+setTopic make a playlist about {balloons|Topic}
+setTopic make a playlist about {frogs|Topic}
+setTopic make a playlist about {elephants|Topic}
+setTopic make a playlist about {rainbows|Topic}
+setTopic make a playlist about {videos|Topic}
+setTopic make a playlist about {computers|Topic}
+setTopic make a playlist about {music|Topic}
+setTopic make a playlist about {electronics|Topic}
+setTopic make a playlist about {space|Topic}
+setTopic make a playlist about {sun|Topic}
+setTopic make a playlist about {star|Topic}
+setTopic make a playlist about {moon|Topic}
+setTopic make a playlist about {animals|Topic}
+setTopic make a playlist about {the muppets|Topic}
+setTopic make a playlist about {internet memes|Topic}
+setTopic make a playlist about {space facts|Topic}
+setTopic make a playlist about {animal info|Topic}
+setTopic make a playlist about {Danny DeVito|Topic}
+setTopic make a playlist about {internet browsers|Topic}
+setTopic make a playlist about {programming tutorials|Topic}
+setTopic make a playlist about {car races|Topic}
+setTopic make a playlist about {electric guitars|Topic}
+setTopic make a playlist about {HTML code|Topic}
+setTopic make a playlist about {cookie dough|Topic}
+setTopic make a playlist about {sun god|Topic}
+setTopic make a playlist about {computer mice|Topic}
+setTopic make a playlist about {laptop review|Topic}
+setTopic make a playlist about {gaming channel|Topic}
+setTopic make a playlist about {cute fuzzy animals|Topic}
+setTopic make a playlist about {daring lion race|Topic}
+setTopic make a playlist about {laser bath desire|Topic}
+setTopic make a playlist about {jets stones frame|Topic}
+setTopic make a playlist about {park begin issue|Topic}
+setTopic make a playlist about {driver guitar dishes|Topic}
+setAmount {Amount}
+setAmount {Amount} videos
+setAmount with {Amount} videos
+setAmount generate {Amount} videos
+setAmount create {Amount} videos
+setAmount include {Amount} videos
+startOver start over
+startOver lets try that again

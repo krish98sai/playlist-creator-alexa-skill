@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Topic",
+          "type": "AMAZON.LITERAL"
+        }
+      ],
+      "intent": "setTopic"
+    },
+    {
+      "slots": [
+        {
+          "name": "Amount",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "setAmount"
+    },
+    {
+      "intent": "startOver"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
